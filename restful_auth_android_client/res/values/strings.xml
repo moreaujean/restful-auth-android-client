@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">restful_auth_android_client</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="user_email">Email</string>
+    <string name="user_email_error_msg">Please enter a valid email address.</string>
+    
+    <string name="user_password">Password</string>    
+    <string name="user_password_with_hint">Password (at least 8 characters)</string>
+    <string name="user_phone_number">Phone Number</string>
+    <string name="login">Login</string>
+
+    <string name="user_name">Email</string>
+    <string name="user_password_confirmation">Confirm Password</string>
+    <string name="register_disclaimer">Your email address will never be sold. By clicking Register you agree to our Terms.</string>
+    <string name="register">Register</string>    
+    
+</resources>
